@@ -4,5 +4,5 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" height="20"/> I am from around the Bay Area, California.
 
-### Check out my socials!
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25" height="25"/> [Instagram (Main Account)](https://www.instagram.com/troyxblizei/)
+### ✨ Check out my socials! ✨
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="23" height="23"/> [Instagram (Main Account)](https://www.instagram.com/troyxblizei/)
