@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning **Computer Science @ Chapman University**.
 📍 I am from around the Bay Area, California.
+⚙️ Experience with <img src="https://camo.githubusercontent.com/2df60e2598ca49144cf62ae1f6fd6c99ab7b1c7f969b7b3a28be87d39e814f4c/68747470733a2f2f692e696d6775722e636f6d2f337531777a77452e706e67"/>
 
-### ✨ Check out my socials! ✨
+## ✨ Check out my socials! ✨
 - [Instagram (Main Account)](https://www.instagram.com/troyxblizei/)
