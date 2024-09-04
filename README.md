@@ -1,10 +1,5 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/> Hi there! I'm Tri 😊
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" height="25"/> ## Hi there! I'm Tri 😊
 
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/hrjifpbq.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon> I’m currently learning **Computer Science @ Chapman University**.
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" height="25"/> I’m currently learning **Computer Science @ Chapman University**.
 📍 I am from around the Bay Area, California.
 
