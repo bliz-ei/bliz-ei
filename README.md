@@ -4,6 +4,5 @@
 - 📁 I will push out projects and homework for certain classes on my GitHub.
 
 ## ✨ Check out my socials! ✨
-- [Instagram (Main Account)](https://www.instagram.com/troyxblizei/)
-- [Instagram (Editing Account)](https://www.instagram.com/editedbyblizei/)
+- [Instagram](https://www.instagram.com/_its.troyy/)
 - [YouTube](https://youtube.com/@tri_aep)
